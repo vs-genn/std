@@ -7,7 +7,7 @@ function ndl = solrad(phi)
 
 % File History:
 % 5/12/2018 Kevin Anchukaitis
-% last modified 20/5/20 vs-genn
+% last modified 23/5/20 vs-genn
 
     latr = (pi/180) * phi;  % change to radians 
     [ndl,dtsi,hdl,y,sd] = deal(NaN(366,2));
