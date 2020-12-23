@@ -7,4 +7,5 @@
 * https://r4ds.had.co.nz/
 * https://swcarpentry.github.io/r-novice-gapminder/
 * https://working-with-data.mazamascience.com/2020/11/11/web-frameworks-for-r-a-brief-overview/
+* https://tsamsonov.github.io/r-geo-course/ 
 
