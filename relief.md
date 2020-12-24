@@ -10,6 +10,8 @@
 * https://tsamsonov.github.io/r-geo-course/ 
 * https://renkun-ken.github.io/rlist-tutorial/index.html
 * https://ms.mcmaster.ca/~bolker/emdbook/book.pdf
+* https://stat545.com/index.html
+
 
 
 
