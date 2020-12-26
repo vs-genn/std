@@ -12,6 +12,8 @@
 * https://ms.mcmaster.ca/~bolker/emdbook/book.pdf
 * https://stat545.com/index.html
 * http://www.burns-stat.com/pages/Tutor/R_inferno.pdf
+* http://simulation.su/static/ru-manuals.print
+
 
 
 
