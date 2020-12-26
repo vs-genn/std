@@ -13,6 +13,8 @@
 * https://stat545.com/index.html
 * http://www.burns-stat.com/pages/Tutor/R_inferno.pdf
 * http://simulation.su/static/ru-manuals.print
+* https://b-ok.global/book/3107564/bb410c
+
 
 
 
