@@ -15,6 +15,7 @@
 * http://simulation.su/static/ru-manuals.print
 * https://b-ok.global/book/3107564/bb410c
 * http://chainsawriot.com/mannheim/2020/12/26/aoc.html
+* http://karolis.koncevicius.lt/posts/collection_of_simple_r_shortcuts/
 
 
 
