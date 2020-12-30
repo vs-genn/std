@@ -16,6 +16,8 @@
 * https://b-ok.global/book/3107564/bb410c
 * http://chainsawriot.com/mannheim/2020/12/26/aoc.html
 * http://karolis.koncevicius.lt/posts/collection_of_simple_r_shortcuts/
+* http://gforge.se/2015/02/how-to-go-parallel-in-r-basics-tips/
+* http://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/
 
 
 
