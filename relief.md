@@ -22,6 +22,8 @@
 * https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf
 * https://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf
 * https://chguiterman.github.io/dfoliatR/
+* https://bookdown.org/yihui/rmarkdown/word-document.html
+
 
 
 
