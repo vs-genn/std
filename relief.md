@@ -18,6 +18,11 @@
 * http://karolis.koncevicius.lt/posts/collection_of_simple_r_shortcuts/
 * http://gforge.se/2015/02/how-to-go-parallel-in-r-basics-tips/
 * http://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/
+* https://era.ed.ac.uk/bitstream/handle/1842/26023/Ramirez-Olle2016.pdf?sequence=5
+* https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf
+* https://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf
+* https://chguiterman.github.io/dfoliatR/
+
 
 
 
