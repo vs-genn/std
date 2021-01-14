@@ -24,6 +24,9 @@
 * https://chguiterman.github.io/dfoliatR/
 * https://bookdown.org/yihui/rmarkdown/word-document.html
 * https://www.r-graph-gallery.com/74-margin-and-oma-cheatsheet.html
+* http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+* https://thenode.biologists.com/visualizing-data-with-r-ggplot2/education/
+
 
 
 
