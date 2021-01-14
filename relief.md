@@ -23,7 +23,7 @@
 * https://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf
 * https://chguiterman.github.io/dfoliatR/
 * https://bookdown.org/yihui/rmarkdown/word-document.html
-
+* https://www.r-graph-gallery.com/74-margin-and-oma-cheatsheet.html
 
 
 
