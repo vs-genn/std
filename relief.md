@@ -26,6 +26,8 @@
 * https://www.r-graph-gallery.com/74-margin-and-oma-cheatsheet.html
 * http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 * https://thenode.biologists.com/visualizing-data-with-r-ggplot2/education/
+* https://eranraviv.com/popular-posts-2020/
+* https://win-vector.com/2021/01/07/smoothing-isnt-always-safe/
 
 
 
