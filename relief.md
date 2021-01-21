@@ -29,6 +29,8 @@
 * https://eranraviv.com/popular-posts-2020/
 * https://win-vector.com/2021/01/07/smoothing-isnt-always-safe/
 * http://lmdvr.r-forge.r-project.org/figures/figures.html
+* https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/
+
 
 
 
