@@ -31,6 +31,7 @@
 * http://lmdvr.r-forge.r-project.org/figures/figures.html
 * https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/
 * https://dominicroye.github.io/en/2020/visualize-climate-anomalies/
+* https://shiny.rstudio.com/articles/reactivity-overview.html
 
 
 
