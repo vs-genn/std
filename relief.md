@@ -32,6 +32,12 @@
 * https://dominicroye.github.io/en/2020/climate-animation-of-maximum-temperatures/
 * https://dominicroye.github.io/en/2020/visualize-climate-anomalies/
 * https://shiny.rstudio.com/articles/reactivity-overview.html
+* https://github.com/nanxstats/awesome-shiny-extensions
+* https://gitlab.com/stragu/DSH/-/blob/master/R/terminology.md
+* https://intro2r.com/
+* https://predictivehacks.com/how-to-compare-objects-in-r/
+*
+
 
 
 
