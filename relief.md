@@ -36,7 +36,8 @@
 * https://gitlab.com/stragu/DSH/-/blob/master/R/terminology.md
 * https://intro2r.com/
 * https://predictivehacks.com/how-to-compare-objects-in-r/
-*
+* https://info.sice.indiana.edu/~katy/S637-S11/cleveland84.pdf
+
 
 
 
