@@ -33,6 +33,8 @@
 * https://dominicroye.github.io/en/2020/visualize-climate-anomalies/
 * https://shiny.rstudio.com/articles/reactivity-overview.html
 * https://github.com/nanxstats/awesome-shiny-extensions
+* https://t.co/OwRSkCbzKK?amp=1
+
 * https://cran.r-project.org/web/packages/brolgar/vignettes/mixed-effects-models.html
 * https://gitlab.com/stragu/DSH/-/blob/master/R/terminology.md
 * https://intro2r.com/
