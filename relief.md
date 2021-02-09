@@ -40,7 +40,7 @@
 * https://intro2r.com/
 * https://predictivehacks.com/how-to-compare-objects-in-r/
 * https://info.sice.indiana.edu/~katy/S637-S11/cleveland84.pdf
-
+* https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
 
 
 
