@@ -42,6 +42,7 @@
 * https://info.sice.indiana.edu/~katy/S637-S11/cleveland84.pdf
 * https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
 * https://www.wsl.ch/dendro/products/dendro_bibliography/index_EN
+* https://ardata-fr.github.io/flextable-book/index.html
 
 
 
