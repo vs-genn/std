@@ -43,7 +43,9 @@
 * https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
 * https://www.wsl.ch/dendro/products/dendro_bibliography/index_EN
 * https://ardata-fr.github.io/flextable-book/index.html
-
+* https://www6.nancy.inrae.fr/foret-bois-lerfob/layout/set/print/content/download/4279/40545/version/1/file/Manuel_ARSTAN.pdf
+* https://cran.r-project.org/web/packages/dplR/dplR.pdf
+* 
 
 
 
