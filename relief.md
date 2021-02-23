@@ -45,7 +45,11 @@
 * https://ardata-fr.github.io/flextable-book/index.html
 * https://www6.nancy.inrae.fr/foret-bois-lerfob/layout/set/print/content/download/4279/40545/version/1/file/Manuel_ARSTAN.pdf
 * https://cran.r-project.org/web/packages/dplR/dplR.pdf
-* 
+* https://github.com/wlandau/targets-shiny/blob/main/R/ui.R
+* https://github.com/dreamRs/datamods
+* https://ggplot2tor.com
+* https://needleinthehay.ca/post/refactoring-squashinformr/
+
 
 
 
