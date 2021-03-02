@@ -49,7 +49,8 @@
 * https://github.com/dreamRs/datamods
 * https://ggplot2tor.com
 * https://needleinthehay.ca/post/refactoring-squashinformr/
-
+* https://nwfsc-timeseries.github.io/atsa-labs/sec-tslab-white-noise-wn.html
+* 
 
 
 
