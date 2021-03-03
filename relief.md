@@ -50,7 +50,8 @@
 * https://ggplot2tor.com
 * https://needleinthehay.ca/post/refactoring-squashinformr/
 * https://nwfsc-timeseries.github.io/atsa-labs/sec-tslab-white-noise-wn.html
-* 
+* https://psyarxiv.com/cy9mz/
+* https://wilkelab.org/SDS375/schedule.html
 
 
 
