@@ -55,7 +55,7 @@
 * https://github.com/max-alletsee/rstudio-themes
 * https://riatelab.github.io/mapsf/
 * https://github.com/insee-psar-at/oceanis-package
-* 
+* https://mastering-shiny.org/
 
 
 
