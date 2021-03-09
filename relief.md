@@ -54,6 +54,7 @@
 * https://wilkelab.org/SDS375/schedule.html
 * https://github.com/max-alletsee/rstudio-themes
 * https://riatelab.github.io/mapsf/
+* https://github.com/insee-psar-at/oceanis-package
 * 
 
 
