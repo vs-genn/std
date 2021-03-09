@@ -53,6 +53,7 @@
 * https://psyarxiv.com/cy9mz/
 * https://wilkelab.org/SDS375/schedule.html
 * https://github.com/max-alletsee/rstudio-themes
+* https://riatelab.github.io/mapsf/
 * 
 
 
