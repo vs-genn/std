@@ -57,6 +57,11 @@
 * https://github.com/insee-psar-at/oceanis-package
 * https://mastering-shiny.org/
 
+# 
+
+* [Climatic growth signatures in observed and modelled tree-rings - constraints from a global tree-ring network](https://occrdata.unibe.ch/students/theses/phd/61.pdf). 
+*
+
 
 
 
