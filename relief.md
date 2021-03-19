@@ -61,6 +61,7 @@
 
 * [Climatic growth signatures in observed and modelled tree-rings - constraints from a global tree-ring network](https://occrdata.unibe.ch/students/theses/phd/61.pdf). 
 * [Cheatsheets](https://rviews.rstudio.com/2021/03/10/rstudio-open-source-resorurces/)
+* [R Programming for Data Science Roger D. Peng] (https://bookdown.org/rdpeng/rprogdatascience)
 *
 
 
