@@ -63,7 +63,7 @@
 * [Cheatsheets](https://rviews.rstudio.com/2021/03/10/rstudio-open-source-resorurces/)
 * [R Programming for Data Science Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience)
 * [Efficient R programming Colin Gillespie Robin Lovelace](https://csgillespie.github.io/efficientR/)
-
+*[Introduction to Data Science Data Analysis and Prediction Algorithms with R Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
 
 
 
