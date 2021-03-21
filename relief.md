@@ -56,6 +56,7 @@
 * https://riatelab.github.io/mapsf/
 * https://github.com/insee-psar-at/oceanis-package
 * https://mastering-shiny.org/
+* https://cran.r-project.org/web/packages/naniar/vignettes/naniar-visualisation.html
 
 # 
 
