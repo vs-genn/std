@@ -57,7 +57,11 @@
 * https://github.com/insee-psar-at/oceanis-package
 * https://mastering-shiny.org/
 * https://cran.r-project.org/web/packages/naniar/vignettes/naniar-visualisation.html
+
+# Encodings and R
+
 * https://developer.r-project.org/Encodings_and_R.html
+* https://rstudio-pubs-static.s3.amazonaws.com/279354_f552c4c41852439f910ad620763960b6.html
 
 # 
 
