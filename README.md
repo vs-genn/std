@@ -1,2 +1,2 @@
 # std треш-скрипты
-STD: A Small Toolbox for Dendro
+STD: A Small Toolbox for Dendro (ДендроХаус)
