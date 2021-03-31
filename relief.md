@@ -1,6 +1,8 @@
 # relief
 
 
+
+
 * https://cran.r-project.org/doc/manuals/R-intro.html
 * http://www.r-tutor.com/r-introduction/
 * https://www.datamentor.io/r-programming/
@@ -77,6 +79,8 @@
 * https://habr.com/ru/post/473290/
 
 
+# Shiny
 
+* [Running background R jobs in Shiny](https://jnolis.com/blog/shiny_background_processes/)
 
 
