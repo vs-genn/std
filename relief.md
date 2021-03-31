@@ -72,7 +72,9 @@
 * [Introduction to Data Science Data Analysis and Prediction Algorithms with R Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
 
 
+# Julia Lang
 
+* https://habr.com/ru/post/473290/
 
 
 
