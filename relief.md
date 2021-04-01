@@ -84,4 +84,7 @@
 
 * [Running background R jobs in Shiny](https://jnolis.com/blog/shiny_background_processes/)
 
+# Notebook
 
+* https://nathaniel-speiser.github.io/Jupyter-Notebook-tips-and-improvements/
+* 
