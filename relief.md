@@ -77,6 +77,7 @@
 # Julia Lang
 
 * https://habr.com/ru/post/473290/
+* https://docs.julialang.org/en/v1/manual/performance-tips/
 
 
 # Shiny
