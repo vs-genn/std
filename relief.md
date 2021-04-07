@@ -83,6 +83,7 @@
 # Shiny
 
 * [Running background R jobs in Shiny](https://jnolis.com/blog/shiny_background_processes/)
+* https://github.com/thomasp85/shinyFiles downloading data in R shiny
 
 # Notebook
 
