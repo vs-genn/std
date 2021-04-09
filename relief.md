@@ -88,4 +88,12 @@
 # Notebook
 
 * https://nathaniel-speiser.github.io/Jupyter-Notebook-tips-and-improvements/
+
+
+# Colab Research Google
+
+* https://habr.com/ru/company/avito/blog/488936/ JavaScript
+* How to use R in Google Colab https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497?gi=aa250a71658b
+* Colaboratory Frequently Asked Questions https://research.google.com/colaboratory/faq.html#resource-limits
+* https://ru.it-brain.online/tutorial/google_colab/google_colab_quick_guide/ Google Colab - Краткое руководство
 * 
