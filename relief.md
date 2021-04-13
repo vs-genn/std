@@ -2,7 +2,7 @@
 
 
 
-
+* https://www.r-bloggers.com/2018/10/analysis-essentials-an-example-directory-structure-for-an-analysis-using-r/
 * https://cran.r-project.org/doc/manuals/R-intro.html
 * http://www.r-tutor.com/r-introduction/
 * https://www.datamentor.io/r-programming/
