@@ -1,7 +1,8 @@
 # relief
 
 
-
+* https://r-charts.com/
+* https://r-coder.com/
 * [Emacs Speaks Statistics – Introductions](https://ess-intro.github.io/)
 * https://www.r-bloggers.com/2018/10/analysis-essentials-an-example-directory-structure-for-an-analysis-using-r/
 * https://cran.r-project.org/doc/manuals/R-intro.html
