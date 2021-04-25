@@ -83,6 +83,7 @@
 
 * https://habr.com/ru/post/473290/
 * https://docs.julialang.org/en/v1/manual/performance-tips/
+* [Что ученые должны знать о железе для написания быстрого кода](https://habr.com/ru/post/529204/)
 
 
 # Shiny
