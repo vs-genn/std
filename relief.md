@@ -65,6 +65,10 @@
 * https://mastering-shiny.org/
 * https://cran.r-project.org/web/packages/naniar/vignettes/naniar-visualisation.html
 
+# 
+
+* https://rdrr.io/bioc/maigesPack/src/R/bootstrapCor.R
+
 # Encodings and R
 
 * https://developer.r-project.org/Encodings_and_R.html
