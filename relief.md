@@ -2,6 +2,10 @@
 
 * [List of R package on github] (List of R package on github)
 
+# RStudio theme
+
+* https://github.com/lusignan/RStudio-Material-Theme
+
 # ggplot's ggplot builder
 
 * https://dreamrs.github.io/esquisse/index.html
