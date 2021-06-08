@@ -13,6 +13,7 @@
 # ggplot's ggplot builder
 
 * https://dreamrs.github.io/esquisse/index.html
+* [Extended Grammar of graphics](https://docs.r4photobiology.info/ggpp/)
 
 * https://r-charts.com/
 * https://r-coder.com/
