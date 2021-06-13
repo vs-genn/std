@@ -14,6 +14,8 @@
 
 * https://dreamrs.github.io/esquisse/index.html
 * [Extended Grammar of graphics](https://docs.r4photobiology.info/ggpp/)
+* [ggmap: Spatial Visualization with
+ggplot2](https://journal.r-project.org/archive/2013-1/kahle-wickham.pdf)
 
 * https://r-charts.com/
 * https://r-coder.com/
