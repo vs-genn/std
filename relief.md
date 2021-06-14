@@ -12,6 +12,7 @@
 
 # ggplot's ggplot builder
 
+* [Highlight geoms in ggplot2.](https://github.com/yutannihilation/gghighlight/)
 * https://dreamrs.github.io/esquisse/index.html
 * [Extended Grammar of graphics](https://docs.r4photobiology.info/ggpp/)
 * [ggmap: Spatial Visualization with
