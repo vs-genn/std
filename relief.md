@@ -6,6 +6,10 @@
 
 * https://github.com/lusignan/RStudio-Material-Theme
 
+# foreach parallel
+
+* [Generic Reproducible Parallel Backend for foreach Loops - R](https://cran.r-project.org/web/packages/doRNG/vignettes/doRNG.pdf)
+
 # Tree-Ring 
 
 * https://andybunn.github.io/dplR-workshop/
