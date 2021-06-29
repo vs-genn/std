@@ -24,6 +24,8 @@
 * [ggmap: Spatial Visualization with
 ggplot2](https://journal.r-project.org/archive/2013-1/kahle-wickham.pdf)
 
+
+* http://karolis.koncevicius.lt/posts/a_half_hour_to_learn_r/
 * https://r-charts.com/
 * https://r-coder.com/
 * [Emacs Speaks Statistics – Introductions](https://ess-intro.github.io/)
