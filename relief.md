@@ -18,6 +18,7 @@
 
 # ggplot's ggplot builder
 
+* [simplevis is a package of ggplot2 wrapper functions that aims to make visualisation easier with less brainpower and typing.](https://statisticsnz.github.io/simplevis/articles/simplevis.html)
 * [Highlight geoms in ggplot2.](https://github.com/yutannihilation/gghighlight/)
 * https://dreamrs.github.io/esquisse/index.html
 * [Extended Grammar of graphics](https://docs.r4photobiology.info/ggpp/)
