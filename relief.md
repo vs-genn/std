@@ -4,6 +4,10 @@
 
 * [List of R package on github] (List of R package on github)
 
+# Tutorials
+
+* [This book aims to be a complement to the 2nd version An Introduction to Statistical Learning book with translations of the labs into using the tidymodels set of packages.](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
+
 # RStudio theme
 
 * https://github.com/lusignan/RStudio-Material-Theme
