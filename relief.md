@@ -1,3 +1,9 @@
+#books
+
+* http://www.modernstatisticswithr.com/ Modern Statistics with R
+From wrangling and exploring data to inference and predictive modelling
+Måns Thulin
+
 # relief
 
 * https://drakonhub.com/try-me
