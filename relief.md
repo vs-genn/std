@@ -13,6 +13,7 @@ Måns Thulin
 # Tutorials
 
 * [This book aims to be a complement to the 2nd version An Introduction to Statistical Learning book with translations of the labs into using the tidymodels set of packages.](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
+* [R Programming for Data Science Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/scoping-rules-of-r.html)
 
 # RStudio theme
 
