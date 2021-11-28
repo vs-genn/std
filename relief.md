@@ -1,4 +1,4 @@
-#books
+# books
 
 * http://www.modernstatisticswithr.com/ Modern Statistics with R
 From wrangling and exploring data to inference and predictive modelling
@@ -18,6 +18,7 @@ Måns Thulin
 # RStudio theme
 
 * https://github.com/lusignan/RStudio-Material-Theme
+* [Custom syntax highlighting themes in RMarkdown (and pandoc)](https://www.tjmahr.com/custom-highlighting-pandoc-rmarkdown/)
 
 # foreach parallel
 
