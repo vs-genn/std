@@ -13,6 +13,8 @@ Måns Thulin
 
 # Tutorials
 
+
+* [Principal Component Analysis: a brief intro for biologists](https://www.statforbiology.com/2021/stat_multivar_pca/)
 * [This book aims to be a complement to the 2nd version An Introduction to Statistical Learning book with translations of the labs into using the tidymodels set of packages.](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
 * [R Programming for Data Science Roger D. Peng](https://bookdown.org/rdpeng/rprogdatascience/scoping-rules-of-r.html)
 
