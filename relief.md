@@ -7,8 +7,9 @@ Måns Thulin
 # relief
 
 * https://drakonhub.com/try-me
-
 * [List of R package on github] (List of R package on github)
+
+#  [Publication-ready tables with flextable and own theme in R](https://michaeldismorr.netlify.app/post/publication-ready-tables-with-flextable-and-own-theme-in-r/)
 
 # Tutorials
 
