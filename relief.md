@@ -1,3 +1,8 @@
+# gis
+
+* https://rstudio.github.io/leaflet/
+* https://gis.stackexchange.com/questions/171827/generate-html-file-with-r-using-leaflet
+
 # books
 
 * http://www.modernstatisticswithr.com/ Modern Statistics with R
