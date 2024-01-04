@@ -1,5 +1,6 @@
 # gis
 
+* https://geodata.ucdavis.edu/gadm/gadm4.1/json/gadm41_RUS_3.json.zip
 * https://felt.com/gallery/3-day-average-heat-index
 * https://rstudio.github.io/leaflet/
 * https://gis.stackexchange.com/questions/171827/generate-html-file-with-r-using-leaflet
