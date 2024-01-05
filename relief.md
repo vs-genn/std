@@ -1,5 +1,6 @@
 # gis
 
+* [The main advantage of the package is the availability of the topologically-aware simplification algorithm in ms_simplify (provided by the simplify tool in mapshaper).](https://cran.r-project.org/web/packages/rmapshaper/vignettes/rmapshaper.html) 
 * https://geodata.ucdavis.edu/gadm/gadm4.1/json/gadm41_RUS_3.json.zip
 * https://felt.com/gallery/3-day-average-heat-index
 * https://rstudio.github.io/leaflet/
