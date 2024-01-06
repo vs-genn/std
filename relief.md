@@ -1,3 +1,9 @@
+
+# web-app
+
+* [React Leaflet tutorial](https://blog.logrocket.com/react-leaflet-tutorial/)
+* [How to Build a Map with React](https://nothanii.hashnode.dev/how-to-build-a-map-with-react)
+
 # gis
 
 * [The main advantage of the package is the availability of the topologically-aware simplification algorithm in ms_simplify (provided by the simplify tool in mapshaper).](https://cran.r-project.org/web/packages/rmapshaper/vignettes/rmapshaper.html) 
