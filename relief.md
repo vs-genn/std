@@ -22,6 +22,7 @@ Måns Thulin
 
 * https://drakonhub.com/try-me
 * [List of R package on github] (List of R package on github)
+* [This is a continuously updated repository that documents personal journey on learning data science, machine learning related topics](https://github.com/ethen8181/machine-learning)
 
 #  [Publication-ready tables with flextable and own theme in R](https://michaeldismorr.netlify.app/post/publication-ready-tables-with-flextable-and-own-theme-in-r/)
 
