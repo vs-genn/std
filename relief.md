@@ -23,6 +23,7 @@ Måns Thulin
 
 # relief
 
+* https://github.com/airbnb/javascript Airbnb JavaScript Style Guide() {
 * https://drakonhub.com/try-me
 * [List of R package on github] (List of R package on github)
 * [This is a continuously updated repository that documents personal journey on learning data science, machine learning related topics](https://github.com/ethen8181/machine-learning)
