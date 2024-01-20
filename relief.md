@@ -165,4 +165,8 @@ ggplot2](https://journal.r-project.org/archive/2013-1/kahle-wickham.pdf)
 * How to use R in Google Colab https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497?gi=aa250a71658b
 * Colaboratory Frequently Asked Questions https://research.google.com/colaboratory/faq.html#resource-limits
 * https://ru.it-brain.online/tutorial/google_colab/google_colab_quick_guide/ Google Colab - Краткое руководство
+
+# xfun::pkg_attach2
+
+* https://cstawitz.github.io/roomba/index.html This is a package to transform large, multi-nested lists into a more user-friendly format (i.e. a tibble) in R.
 * 
