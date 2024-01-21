@@ -15,6 +15,7 @@
 * https://felt.com/gallery/3-day-average-heat-index
 * https://rstudio.github.io/leaflet/
 * https://gis.stackexchange.com/questions/171827/generate-html-file-with-r-using-leaflet
+* https://github.com/openstreetmap/iD
 
 # books
 
