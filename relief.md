@@ -6,6 +6,7 @@
 * [Fast Smart Global ESM>CDN](https://esm.sh/)
 * https://github.com/Flexberry/Leaflet-WFST OGC WFS-T client layer for leaflet.
 * https://github.com/crazycapivara/openlayers/pull/24
+* https://github.com/rstudio/leaflet
 
 # gis
 
