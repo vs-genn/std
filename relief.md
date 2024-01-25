@@ -172,3 +172,8 @@ ggplot2](https://journal.r-project.org/archive/2013-1/kahle-wickham.pdf)
 
 * https://cstawitz.github.io/roomba/index.html This is a package to transform large, multi-nested lists into a more user-friendly format (i.e. a tibble) in R.
 * 
+
+# JavaScript Urls
+
+* https://eslint.org/play/
+* 
