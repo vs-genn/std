@@ -54,6 +54,14 @@ Måns Thulin
 
 * https://andybunn.github.io/dplR-workshop/
 
+# DyGraphs 
+
+* http://rstudio.github.io/dygraphs/
+* https://dygraphs.com/
+* https://github.com/danvk/dygraphs
+
+# Plotly
+
 # ggplot's ggplot builder
 
 * [simplevis is a package of ggplot2 wrapper functions that aims to make visualisation easier with less brainpower and typing.](https://statisticsnz.github.io/simplevis/articles/simplevis.html)
