@@ -46,6 +46,9 @@ Måns Thulin
 * https://github.com/lusignan/RStudio-Material-Theme
 * [Custom syntax highlighting themes in RMarkdown (and pandoc)](https://www.tjmahr.com/custom-highlighting-pandoc-rmarkdown/)
 
+# sublime-color-themes
+* https://github.com/blakeharv/sublime-color-themes/tree/master 
+
 # foreach parallel
 
 * [Generic Reproducible Parallel Backend for foreach Loops - R](https://cran.r-project.org/web/packages/doRNG/vignettes/doRNG.pdf)
