@@ -23,6 +23,7 @@
 * http://www.modernstatisticswithr.com/ Modern Statistics with R
 From wrangling and exploring data to inference and predictive modelling
 Måns Thulin
+* https://carpentries-incubator.github.io/open-science-with-r/ Introduction to Open Data Science with R
 
 # relief
 
