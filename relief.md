@@ -1,6 +1,6 @@
 # maps-tool
 
-* [Interactive web-based data visualization with R, plotly, and shiny] (https://plotly-r.com/)
+* [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 
 # web-app
 
