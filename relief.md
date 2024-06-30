@@ -1,5 +1,7 @@
 # maps-tool
 
+* [The Generic Mapping Tools](https://github.com/GenericMappingTools/gmt)
+* [Collection of GMT (Generic Mapping Tools) scripts, jupyter notebooks (using PyGMT) and files (including digitized map content, colormaps, grid files etc.)](https://github.com/michaelgrund/GMT-plotting)
 * [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 
 # web-app
